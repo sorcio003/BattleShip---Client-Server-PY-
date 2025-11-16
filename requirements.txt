@@ -1,0 +1,4 @@
+# Battleship Socket Game Requirements
+# Python 3.10+
+
+customtkinter>=6.4.2
